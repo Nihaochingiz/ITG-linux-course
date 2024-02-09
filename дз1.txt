@@ -1,0 +1,30 @@
+ДЗ
+Требования к ДЗ
+Каждая работа выкладывается в личную репу гита
+По готовности даём мне ссылку на репу
+
+1.
+Создать именованный пайп
+Вывести через него в файл вывод команды ss -plnt
+
+2.
+При помощи именованного пайпа заархивировать всё, что в него отправляем
+
+3.
+Показать дату в юникстайме
+На вход команды date через пайп подать свой формат выводимой даты
+
+4.
+При помощи HEREDOC "сгенерировать" баш-скрипт для третьего пункта
+
+
+Материал, который нужно знать
+https://www.linusakesson.net/programming/tty/
+https://unixbhaskar.wordpress.com/2010/03/19/insight-into-gnulinux-boot-process/
+https://geekstuffweb.wordpress.com/2014/08/06/linux-boot-process/
+https://www.kernel.org/doc/html/v4.14/admin-guide/devices.html
+https://ru.wikipedia.org/wiki/Init
+
+Пролистать:
+Архитектура ЭВМ: https://vk.com/wall-54530371_134897
+
